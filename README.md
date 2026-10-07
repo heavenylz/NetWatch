@@ -248,13 +248,13 @@ NetWatch stores its runtime information locally.
 The application uses:
 
 ```text
-data/settings.json
+%LOCALAPPDATA%\NetWatch\settings.json
 ```
 
 for user configuration and:
 
 ```text
-data/netwatch.db
+%LOCALAPPDATA%\NetWatch\netwatch.db
 ```
 
 for recorded network incidents.
