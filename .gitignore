@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Runtime data
+data/*.db
+data/*.db-journal
+data/settings.json
+data/*.log
+
+# Build output
+build/
+dist/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test/cache
+.pytest_cache/
+.coverage
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.bak

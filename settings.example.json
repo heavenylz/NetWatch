@@ -1,0 +1,8 @@
+{
+    "ping_target": "1.1.1.1",
+    "check_interval": 2.0,
+    "history_length": 60,
+    "spike_multiplier": 2.5,
+    "minimum_spike_ms": 60.0,
+    "disconnect_threshold": 3
+}
